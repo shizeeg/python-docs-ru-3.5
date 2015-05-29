@@ -71,7 +71,7 @@
 + [Сергей] (https://www.duolingo.com/faraser)
 + [Юрий Павлючков] (https://www.duolingo.com/m81yura)
 
-Wheew... there are lots of you, guys! Thank you to you all for your efforts!
+Wheew... there are lots of you, guys! Thanks to you all for your efforts!
 
 ### If some of you notice some mistakes I may have unintationally made, please send
 me a patch.
