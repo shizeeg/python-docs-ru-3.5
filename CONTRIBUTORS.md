@@ -73,8 +73,7 @@
 
 Wheew... there are lots of you, guys! Thanks to you all for your efforts!
 
-### If some of you notice some mistakes I may have unintationally made, please send
-me a patch.
+### If some of you notice some mistakes I may have unintationally made, please send me a patch.
 
 
 Also I want to thank my offline contributor Рублег for corrections and
